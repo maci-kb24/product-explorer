@@ -32,3 +32,5 @@ const ItemCard = React.memo<ItemCardProps>(({ item, onDelete }) => (
 ));
 
 ItemCard.displayName = 'ItemCard';
+
+export { ItemCard };
