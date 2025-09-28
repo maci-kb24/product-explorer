@@ -1,1 +1,1 @@
-const CATEGORIES = ['All', 'Electronics', 'Clothing', 'Books', 'Food', 'Sports', 'Other'];
+export const categories = ['All', 'Electronics', 'Clothing', 'Books', 'Food', 'Sports', 'Other'];
