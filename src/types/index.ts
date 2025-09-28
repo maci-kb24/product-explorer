@@ -1,4 +1,4 @@
-interface Item {
+ export interface Item {
     id: number;
     title: string;
     description: string;
@@ -6,7 +6,7 @@ interface Item {
     createdAt: Date;
 }
 
-interface ItemFormData {
+export interface ItemFormData {
   title: string;
   description: string;
   category: string;
